@@ -14,7 +14,7 @@
 ⚡ Fun fact **As a data scientist with a passion for AOSP ROMs, I enjoy customizing and optimizing Android systems just as much as I love extracting insights from data. Whether I'm tweaking ROMs for peak performance or mining datasets for hidden patterns, I'm always on the hunt for the perfect algorithm to enhance user experiences and drive innovation.**
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/GithubMaster.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GithubMaster) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GithubMaster) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GithubMaster)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/GithubMaster.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GithubMaster) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GithubMaster_IN) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GithubMaster)
 
 ### 💻 Tech Stack:
 
