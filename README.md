@@ -7,7 +7,7 @@
 ## About Me    
 I'm an AI & Data Science Specialist passionate about building scalable, AI-driven solutions. With expertise in Data Analytics, Data Science, and Machine Learning, I create impactful user experiences and explore innovative projects in my free time. On top of all that,technology is my passion and I love exploring all the different areas it touches.
 
-<table align="center">
+<<table align="center">
   <tr>
     <td align="center">
       <a href="https://discord.com/users/1107241247086739537">
@@ -19,6 +19,7 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
     </td>
   </tr>
 </table>
+
 
 ## Languages and Tools 
 
