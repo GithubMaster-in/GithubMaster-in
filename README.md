@@ -9,7 +9,7 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1107241247086739537?showDisplayName=true)](https://discord.com/users/1107241247086739537), [![Discord Presence](https://lanyard.cnrad.dev/api/1107241247086739537?showDisplayName=true)](https://discord.com/users/1107241247086739537) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1107241247086739537?showDisplayName=true)](https://discord.com/users/1107241247086739537), <img src="[https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv](https://i.gifer.com/6oa.gif)" align="right" width="72"/>
 
 </div>
 
