@@ -1,10 +1,6 @@
-<div align="left">
+<div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Abhinav.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4),
-
-align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1107241247086739537?showDisplayName=true)](https://discord.com/users/1107241247086739537)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Abhinav.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4), [![Discord Presence](https://lanyard.cnrad.dev/api/1107241247086739537?showDisplayName=true)](https://discord.com/users/1107241247086739537)
 </div>
 
 ## About Me
