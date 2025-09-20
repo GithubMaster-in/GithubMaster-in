@@ -1,19 +1,14 @@
-<div style="display: inline-flex; align-items: center; gap: 10px;">
-
-  <!-- Left: Header Image -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Abhinav.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" 
-       alt="header" style="height: 80px; width: auto; max-width: 50%; display: block;">
-
-  <!-- Right: Discord Presence -->
-  <a href="https://discord.com/users/1107241247086739537" style="display: block;">
-    <img src="https://lanyard.cnrad.dev/api/1107241247086739537?showDisplayName=true" 
-         alt="Discord Presence" style="height: 80px; width: auto; max-width: 50%; display: block;">
-  </a>
-
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Abhinav.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+  
 </div>
 
+<div align="center">
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/1107241247086739537?showDisplayName=true)](https://discord.com/users/1107241247086739537) 
 
-
+</div>
 
 ## About Me
 I'm an AI & Data Science Specialist passionate about building scalable, AI-driven solutions. With expertise in Data Analytics, Data Science, and Machine Learning, I create impactful user experiences and explore innovative projects in my free time. On top of all that,technology is my passion and I love exploring all the different areas it touches.
