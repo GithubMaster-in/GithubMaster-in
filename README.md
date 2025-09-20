@@ -2,15 +2,16 @@
 
   <!-- Left: Header Image -->
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Abhinav.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" 
-       alt="header" style="height: 100px; width: auto; display: block;">
+       alt="header" style="height: 80px; width: auto; max-width: 50%; display: block;">
 
   <!-- Right: Discord Presence -->
   <a href="https://discord.com/users/1107241247086739537" style="display: block;">
     <img src="https://lanyard.cnrad.dev/api/1107241247086739537?showDisplayName=true" 
-         alt="Discord Presence" style="height: 100px; width: auto; display: block;">
+         alt="Discord Presence" style="height: 80px; width: auto; max-width: 50%; display: block;">
   </a>
 
 </div>
+
 
 
 
