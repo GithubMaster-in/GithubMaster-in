@@ -18,13 +18,13 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
 </div>
 
 ### **Data Science & Machine Learning**
-| Python | PyTorch | TensorFlow | NumPy | Pandas | Scikit-learn | Matplotlib | Seaborn | Plotly |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="40"/> | <img src="https://raw.githubusercontent.com/mwaskom/seaborn-data/master/seaborn-logo-only.png" title="Seaborn" alt="Seaborn" width="40"/> | <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" title="Plotly" alt="Plotly" width="40"/> |
+| Jupyter | Anaconda | Python | PyTorch | TensorFlow | NumPy |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40"/> |
 
-| Jupyter | Anaconda |
-| :---: | :---: |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40"/> |
+| Pandas | Scikit-learn | Matplotlib | Seaborn | Plotly | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="40"/> | <img src="https://raw.githubusercontent.com/mwaskom/seaborn-data/master/seaborn-logo-only.png" title="Seaborn" alt="Seaborn" width="40"/> | <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" title="Plotly" alt="Plotly" width="40"/> | - |
 
 ---
 
