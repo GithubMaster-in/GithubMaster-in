@@ -8,14 +8,10 @@
 I'm an AI & Data Science Specialist passionate about building scalable, AI-driven solutions. With expertise in Data Analytics, Data Science, and Machine Learning, I create impactful user experiences and explore innovative projects in my free time. On top of all that,technology is my passion and I love exploring all the different areas it touches.
 
 <div align="center">
-  
+  <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
   [![Discord Presence](https://lanyard.cnrad.dev/api/1107241247086739537?idleMessage=Working%20on%20Data%20with%20%E2%98%95)](https://discord.com/users/1107241247086739537)
 
 </div>
-
-<img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
-
----
 
 ## Languages and Tools 
 
