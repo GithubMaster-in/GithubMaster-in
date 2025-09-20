@@ -8,7 +8,7 @@
 I'm an AI & Data Science Specialist passionate about building scalable, AI-driven solutions. With expertise in Data Analytics, Data Science, and Machine Learning, I create impactful user experiences and explore innovative projects in my free time. On top of all that,technology is my passion and I love exploring all the different areas it touches.
 
 <div align="center">
-  <div style="display: inline-block; vertical-align: middle; margin-right: 10px;">
+  <div style="display: inline-block; vertical-align: right; margin-right: 10px;">
     <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" width="72" alt="GIF"/>
   </div>
   <div style="display: inline-block; vertical-align: middle;">
