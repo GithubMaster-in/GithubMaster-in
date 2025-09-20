@@ -15,11 +15,7 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
   </a>
 
   <!-- Cat GIF at bottom-right -->
-  <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" 
-       alt="Cat" 
-       width="40" 
-       style="position: absolute; bottom: 0; right: 0;"/>
-</div>
+<div class="tenor-gif-embed" data-postid="24202867" data-share-method="host" data-aspect-ratio="0.875" data-width="100%"><a href="https://tenor.com/view/demon-slayer-gif-24202867">Demon Slayer Sticker</a>from <a href="https://tenor.com/search/demon+slayer-stickers">Demon Slayer Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
