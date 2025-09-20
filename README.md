@@ -17,11 +17,11 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
 
 </div>
 
-<h3>💻 Languages and Tools</h3>
+### Languages:
+| Python | C | C++ | JS | PHP |
+|--------|---|----|----|-----|
+| <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/python.gif" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/c.gif" title="C" alt="C" width="55" height="55"/> | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/cpp.gif" title="C++" alt="C++" width="55" height="55"/> | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/javascript.gif" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/php.gif" title="PHP" alt="PHP" width="55" height="55"/> |
 
-<p align="left"> 
-  <img src="[https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Programming/python.gif](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)" alt="python" width="50" height="50"/>
-</p>
 
 ## 💻 Tech Stack:
 
