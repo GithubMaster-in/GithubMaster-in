@@ -13,6 +13,7 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
   </a>
 </div>
 <img src="https://media.tenor.com/oFyVYx5-aPwAAAAi/demon-slayer.gif" align="right" width="70"/>
+
 ## Languages and Tools 
 
 ### Frameworks & Libraries
