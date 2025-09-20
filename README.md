@@ -12,7 +12,7 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
     <img src="https://lanyard.cnrad.dev/api/1107241247086739537?idleMessage=Working%20on%20Data%20with%20%E2%98%95" alt="Discord Presence"/>
   </a>
 
-<img src="https://media.tenor.com/coR26JrE0cYAAAAi/kimetsu-no-yaiba-demon-slayer.gif" align="right" width="100"/>
+<img src="https://media.tenor.com/coR26JrE0cYAAAAi/kimetsu-no-yaiba-demon-slayer.gif" align="right" width="200"/>
 </div>
 
 ## Languages and Tools 
