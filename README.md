@@ -47,5 +47,8 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
 | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/adobe_lightroom/adobe_lightroom-icon.svg" title="Adobe Lightroom" alt="Adobe Lightroom" width="55" height="55"/> |
 
 
+<p align="center">
+ <img width="1000" src="asset/github-snake.svg" alt="snake"/>
+</p>
 
 
