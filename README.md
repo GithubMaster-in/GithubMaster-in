@@ -24,8 +24,6 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
 | **R** | **Kotlin** | **CSS3** | **HTML5** | **LaTeX** | **PowerShell** |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="55" height="55"/> |
 
-***
-
 ### **Data Science, ML & Analytics**
 | PyTorch | TensorFlow | NumPy | Pandas | Scikit-learn | Matplotlib |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -33,21 +31,15 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
 | **OpenCV** | **Jupyter** | **Apache Spark** | **Apache Hadoop** | **Google Analytics** |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark" alt="Apache Spark" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Apache Hadoop" alt="Apache Hadoop" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" title="Google Analytics" alt="Google Analytics" width="55" height="55"/> |
 
-***
-
 ### **Databases**
 | MySQL | MongoDB | SQLite | Microsoft SQL Server |
 | :---: | :---: | :---: | :---: |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="55" height="55"/> |
 
-***
-
 ### **Cloud Platforms & DevOps**
 | AWS | Azure | Google Cloud | Alibaba Cloud | DigitalOcean | Heroku | Linode |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-icon.svg" title="Alibaba Cloud" alt="Alibaba Cloud" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="DigitalOcean" alt="DigitalOcean" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linode/linode-original-wordmark.svg" title="Linode" alt="Linode" width="55" height="55"/> |
-
-***
 
 ### **Tools, OS & Software**
 | Anaconda | Linux | Ubuntu | Apache | Bootstrap | Photoshop | Lightroom |
