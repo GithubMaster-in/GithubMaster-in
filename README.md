@@ -7,13 +7,19 @@
 ## About Me    
 I'm an AI & Data Science Specialist passionate about building scalable, AI-driven solutions. With expertise in Data Analytics, Data Science, and Machine Learning, I create impactful user experiences and explore innovative projects in my free time. On top of all that,technology is my passion and I love exploring all the different areas it touches.
 
-<div align="center"
-  <a href="https://discord.com/users/1107241247086739537">
-    <img src="https://lanyard.cnrad.dev/api/1107241247086739537?idleMessage=Working%20on%20Data%20with%20%E2%98%95" alt="Discord Presence"/>
-  </a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://discord.com/users/1107241247086739537">
+        <img src="https://lanyard.cnrad.dev/api/1107241247086739537?idleMessage=Working%20on%20Data%20with%20%E2%98%95" alt="Discord Presence"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://media.tenor.com/coR26JrE0cYAAAAi/kimetsu-no-yaiba-demon-slayer.gif" width="160"/>
+    </td>
+  </tr>
+</table>
 
-<img src="https://media.tenor.com/coR26JrE0cYAAAAi/kimetsu-no-yaiba-demon-slayer.gif" align="right" width="160"/>
-</div>
 
 ## Languages and Tools 
 
