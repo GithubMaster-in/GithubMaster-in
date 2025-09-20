@@ -7,7 +7,7 @@
 ## About Me    
 I'm an AI & Data Science Specialist passionate about building scalable, AI-driven solutions. With expertise in Data Analytics, Data Science, and Machine Learning, I create impactful user experiences and explore innovative projects in my free time. On top of all that,technology is my passion and I love exploring all the different areas it touches.
 
-<<table align="center">
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://discord.com/users/1107241247086739537">
@@ -15,7 +15,7 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
       </a>
     </td>
     <td align="center">
-      <img src="https://media.tenor.com/coR26JrE0cYAAAAi/kimetsu-no-yaiba-demon-slayer.gif" width="160"/>
+      <img src="https://media.tenor.com/coR26JrE0cYAAAAi/kimetsu-no-yaiba-demon-slayer.gif" width="72"/>
     </td>
   </tr>
 </table>
@@ -40,4 +40,3 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
 
 ## Fun Part
 </div> <p align="center"> <img width="1000" src="asset/github-snake.svg" alt="snake"/> </p>
-
