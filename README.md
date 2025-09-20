@@ -19,23 +19,7 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
 
 <h3>🚀 My Tech Stack</h3>
 
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/sproogen/modern-ui-icons/main/icons/python.gif" alt="python" width="55" height="55"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/sproogen/modern-ui-icons/main/icons/c.gif" alt="c" width="55" height="55"/> 
-  </a> 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/sproogen/modern-ui-icons/main/icons/cplusplus.gif" alt="cplusplus" width="55" height="55"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/sproogen/modern-ui-icons/main/icons/javascript.gif" alt="javascript" width="55" height="55"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/sproogen/modern-ui-icons/main/icons/php.gif" alt="php" width="55" height="55"/> 
-  </a> 
-</p>
+![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,php)
 
 
 ## 💻 Tech Stack:
