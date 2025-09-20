@@ -13,7 +13,8 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
 
 <div align="center">
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/1107241247086739537?idleMessage=Working%20on%20Jupyter%20Notebook%20with%20%E2%98%95)](https://discord.com/users/1107241247086739537)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1107241247086739537?idleMessage=Working%20on%20Data%20with%20%E2%98%95)](https://discord.com/users/1107241247086739537)
+
 </div>
 
 ## 💻 Tech Stack:
