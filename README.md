@@ -21,7 +21,7 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
 </table>
 
 
-## <img src='https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAd/cat.gif' width="25"> Languages and Tools
+## <img src='https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif' width="30"> Languages and Tools
 
 ### Frameworks & Libraries
 | Python | NumPy | Pandas | PyTorch | Scikit-learn | Matplotlib | Seaborn | Plotly | TensorFlow |
