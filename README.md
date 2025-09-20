@@ -25,15 +25,4 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
 | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40"/> | <img src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" title="LaTeX" alt="LaTeX" width="40"/> |
 
 ## Fun Part
-<table align="center">
-  <tr>
-    <td align="center" style="padding-right: 20px;">
-      <a href="https://discord.com/users/1107241247086739537">
-        <img src="https://lanyard.cnrad.dev/api/1107241247086739537?idleMessage=Working%20on%20Data%20with%20%E2%98%95" alt="Discord Presence"/>
-      </a>
-    </td>
-    <td align="center">
-      <img src="asset/github-snake.svg" alt="snake"/>
-    </td>
-  </tr>
-</table>
+<div align="center"> [![Discord Presence](https://lanyard.cnrad.dev/api/1107241247086739537?idleMessage=Working%20on%20Data%20with%20%E2%98%95)](https://discord.com/users/1107241247086739537) </div> <p align="center"> <img width="1000" src="asset/github-snake.svg" alt="snake"/> </p>
