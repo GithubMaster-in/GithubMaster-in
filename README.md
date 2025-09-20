@@ -11,7 +11,7 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
   <a href="https://discord.com/users/1107241247086739537">
     <img src="https://lanyard.cnrad.dev/api/1107241247086739537?idleMessage=Working%20on%20Data%20with%20%E2%98%95" alt="Discord Presence"/>
   </a>
-<div>
+</div>
 
 
 ## Languages and Tools 
