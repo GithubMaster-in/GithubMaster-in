@@ -17,10 +17,11 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
 
 </div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### My Tech Stack
 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="20" height="20"/> **Python:** My primary language for backend development, data scripting, and automation.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> **JavaScript (ES6+):** Used for building dynamic front-ends with React and backend services with Node.js.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> **C++:** For performance-critical applications and competitive programming.
 
 
 
