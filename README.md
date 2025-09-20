@@ -1,18 +1,16 @@
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 800px; margin: auto;">
+<div style="display: inline-flex; align-items: center; gap: 10px;">
 
   <!-- Left: Header Image -->
-  <div>
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Abhinav.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" alt="header" style="max-width: 50%; height: auto;">
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Abhinav.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" 
+       alt="header" style="height: 200px; width: auto; display: block;">
 
   <!-- Right: Discord Presence -->
-  <div>
-    <a href="https://discord.com/users/1107241247086739537">
-      <img src="https://lanyard.cnrad.dev/api/1107241247086739537?showDisplayName=true" alt="Discord Presence">
-    </a>
-  </div>
+  <a href="https://discord.com/users/1107241247086739537" style="display: block;">
+    <img src="https://lanyard.cnrad.dev/api/1107241247086739537?showDisplayName=true" alt="Discord Presence" style="height: 80px; width: auto;">
+  </a>
 
 </div>
+
 
 
 ## About Me
