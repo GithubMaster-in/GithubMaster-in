@@ -1,21 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Burhan.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
-
-## About Me    
-I'm a computer science guy with a knack for AI and machine learning. I've built loads of websites over the years and even worked on augmented reality projects - that futuristic stuff is so cool! Graphic design is one of my favorite hobbies when I'm not coding. I'm also really into digital marketing and have done a ton of work in that space. On top of all that, I'm an entrepreneur running my own business. Technology is my passion and I love exploring all the different areas it touches.
-    
-
-<div align="center">
-  
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Abhinav.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
-  
-</div>
-
-<div 
-
-## About Me
+## About Me    
 I'm an AI & Data Science Specialist passionate about building scalable, AI-driven solutions. With expertise in Data Analytics, Data Science, and Machine Learning, I create impactful user experiences and explore innovative projects in my free time. On top of all that,technology is my passion and I love exploring all the different areas it touches.
-
-</div>
 
 <div align="center">
   
