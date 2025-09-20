@@ -33,7 +33,7 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
       </a>
     </td>
     <td align="center">
-      <img width="500" src="asset/github-snake.svg" alt="snake"/>
+      <img src="asset/github-snake.svg" alt="snake"/>
     </td>
   </tr>
 </table>
