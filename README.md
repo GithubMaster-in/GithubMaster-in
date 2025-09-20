@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Welcome+to+my+Profile!;I'm+Abhinav+Choudhary!;A+Passionate+Data+Scientist+from+INDIA!&center=true&width=380&height=55">
-</p>
-
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Abhinav.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 ### 💫 About Me:
 🔭 I’m currently working on a **Sentimental Analysis**
