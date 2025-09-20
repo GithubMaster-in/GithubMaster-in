@@ -15,7 +15,7 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
       </a>
     </td>
     <td align="center">
-      <img src="https://media.tenor.com/coR26JrE0cYAAAAi/kimetsu-no-yaiba-demon-slayer.gif" width="160"/>
+      <img src="https://media.tenor.com/coR26JrE0cYAAAAi/kimetsu-no-yaiba-demon-slayer.gif" width="72"/>
     </td>
   </tr>
 </table>
