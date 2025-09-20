@@ -8,14 +8,9 @@
 I'm an AI & Data Science Specialist passionate about building scalable, AI-driven solutions. With expertise in Data Analytics, Data Science, and Machine Learning, I create impactful user experiences and explore innovative projects in my free time. On top of all that,technology is my passion and I love exploring all the different areas it touches.
 
 <div align="center"
-  
-  <!-- Discord Badge -->
   <a href="https://discord.com/users/1107241247086739537">
     <img src="https://lanyard.cnrad.dev/api/1107241247086739537?idleMessage=Working%20on%20Data%20with%20%E2%98%95" alt="Discord Presence"/>
   </a>
-
-  <!-- Cat GIF at bottom-right -->
-<div class="tenor-gif-embed" data-postid="24202867" data-share-method="host" data-aspect-ratio="0.875" data-width="100%"><a href="https://tenor.com/view/demon-slayer-gif-24202867">Demon Slayer Sticker</a>from <a href="https://tenor.com/search/demon+slayer-stickers">Demon Slayer Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <div>
 
 
