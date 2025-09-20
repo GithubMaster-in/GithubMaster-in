@@ -17,12 +17,17 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
 
 </div>
 
-### My Tech Stack
+<h3>🚀 My Animated Tech Stack</h3>
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="20" height="20"/> **Python:** My primary language for backend development, data scripting, and automation.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> **JavaScript (ES6+):** Used for building dynamic front-ends with React and backend services with Node.js.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> **C++:** For performance-critical applications and competitive programming.
-
+<p align="left">
+  <img src="https://github.com/tecos-studios/Animated-Icons-f/blob/main/Python/Python.gif?raw=true" alt="Python" width="55" height="55"/>
+  <img src="https://github.com/tecos-studios/Animated-Icons-f/blob/main/C/C.gif?raw=true" alt="C" width="55" height="55"/>
+  <img src="https://github.com/tecos-studios/Animated-Icons-f/blob/main/CPlusPlus/CPlusPlus.gif?raw=true" alt="C++" width="55" height="55"/>
+  <img src="https://github.com/tecos-studios/Animated-Icons-f/blob/main/JavaScript/JavaScript.gif?raw=true" alt="JavaScript" width="55" height="55"/>
+  <img src="https://github.com/tecos-studios/Animated-Icons-f/blob/main/PHP/PHP.gif?raw=true" alt="PHP" width="55" height="55"/>
+  <img src="https://github.com/tecos-studios/Animated-Icons-f/blob/main/React/React.gif?raw=true" alt="React" width="55" height="55"/>
+  <img src="https://github.com/tecos-studios/Animated-Icons-f/blob/main/NodeJS/NodeJS.gif?raw=true" alt="NodeJS" width="55" height="55"/>
+</p>
 
 
 ## 💻 Tech Stack:
