@@ -17,10 +17,15 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
 
 </div>
 
-<h3>🚀 My Tech Stack</h3>
+<h3>💻 Languages and Tools</h3>
 
-![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,php)
-
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Programming/python.gif" alt="python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Programming/c.gif" alt="c" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Programming/cpp.gif" alt="cplusplus" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Programming/javascript.gif" alt="javascript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Programming/php.gif" alt="php" width="50" height="50"/>
+</p>
 
 ## 💻 Tech Stack:
 
