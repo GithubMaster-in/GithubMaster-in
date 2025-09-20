@@ -32,6 +32,6 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
 
 ## Fun Part
 
-<p align="center">
+<div align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+</div>
