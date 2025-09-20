@@ -11,14 +11,17 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
   <tr>
     <td align="center" style="width:80%;">
       <a href="https://discord.com/users/1107241247086739537">
-        <img src="https://lanyard.cnrad.dev/api/1107241247086739537?idleMessage=Working%20on%20Data%20with%20%E2%98%95" alt="Discord Presence" style="width:100%;"/>
+        <img src="https://lanyard.cnrad.dev/api/1107241247086739537?idleMessage=Working%20on%20Data%20with%20%E2%98%95" 
+             alt="Discord Presence" style="width:100%;"/>
       </a>
     </td>
     <td align="center" style="width:20%;">
-      <img src="https://media.tenor.com/coR26JrE0cYAAAAi/kimetsu-no-yaiba-demon-slayer.gif" style="max-width:100%; height:auto;"/>
+      <img src="https://media.tenor.com/coR26JrE0cYAAAAi/kimetsu-no-yaiba-demon-slayer.gif" 
+           width="120"/>
     </td>
   </tr>
 </table>
+
 
 ## Languages and Tools 
 
