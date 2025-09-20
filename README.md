@@ -17,16 +17,24 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
 
 </div>
 
-<h3>🚀 My Animated Tech Stack</h3>
+<h3>🚀 My Tech Stack</h3>
 
-<p align="left">
-  <img src="https://github.com/tecos-studios/Animated-Icons-f/blob/main/Python/Python.gif?raw=true" alt="Python" width="55" height="55"/>
-  <img src="https://github.com/tecos-studios/Animated-Icons-f/blob/main/C/C.gif?raw=true" alt="C" width="55" height="55"/>
-  <img src="https://github.com/tecos-studios/Animated-Icons-f/blob/main/CPlusPlus/CPlusPlus.gif?raw=true" alt="C++" width="55" height="55"/>
-  <img src="https://github.com/tecos-studios/Animated-Icons-f/blob/main/JavaScript/JavaScript.gif?raw=true" alt="JavaScript" width="55" height="55"/>
-  <img src="https://github.com/tecos-studios/Animated-Icons-f/blob/main/PHP/PHP.gif?raw=true" alt="PHP" width="55" height="55"/>
-  <img src="https://github.com/tecos-studios/Animated-Icons-f/blob/main/React/React.gif?raw=true" alt="React" width="55" height="55"/>
-  <img src="https://github.com/tecos-studios/Animated-Icons-f/blob/main/NodeJS/NodeJS.gif?raw=true" alt="NodeJS" width="55" height="55"/>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/sproogen/modern-ui-icons/main/icons/python.gif" alt="python" width="55" height="55"/> 
+  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/sproogen/modern-ui-icons/main/icons/c.gif" alt="c" width="55" height="55"/> 
+  </a> 
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/sproogen/modern-ui-icons/main/icons/cplusplus.gif" alt="cplusplus" width="55" height="55"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/sproogen/modern-ui-icons/main/icons/javascript.gif" alt="javascript" width="55" height="55"/> 
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/sproogen/modern-ui-icons/main/icons/php.gif" alt="php" width="55" height="55"/> 
+  </a> 
 </p>
 
 
