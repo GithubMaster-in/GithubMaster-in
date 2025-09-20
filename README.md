@@ -9,7 +9,7 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1107241247086739537?showDisplayName=true&showSpotify=true)](https://discord.com/users/1107241247086739537)
+[![Spotify](https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?type=spotify&theme=dark)](https://open.spotify.com/user/YOUR_DISCORD_ID)
 
 </div>
 
