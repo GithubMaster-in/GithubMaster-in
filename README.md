@@ -30,7 +30,7 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
   <tr>
     <td align="center">
       <a href="https://discord.com/users/1107241247086739537">
-        <img src="https://lanyard.cnrad.dev/api/1107241247086739537??showDisplayName=true&idleMessage=Working%20on%20Data%20with%20%E2%98%95" alt="Discord Presence"/>
+        <img src="https://lanyard.cnrad.dev/api/1107241247086739537?showDisplayName=true&idleMessage=Working%20on%20Data%20with%20%E2%98%95" alt="Discord Presence"/>
       </a>
     </td>
     <td align="center">
