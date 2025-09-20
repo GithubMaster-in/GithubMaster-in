@@ -13,7 +13,7 @@ I'm an AI & Data Science Specialist passionate about building scalable, AI-drive
 
 </div>
 
-<img src="[https://i.gifer.com/6oa.gif]" align="right" width="72"/>
+<img src="[https://i.gifer.com/6oa.gifv]" align="right" width="72"/>
 
 
 ## 💻 Tech Stack:
